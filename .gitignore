@@ -1,0 +1,17 @@
+# Throwaway Flax project(s) used to build/run the plugin during development
+Binaries/
+Cache/
+Logs/
+.vs/
+obj/
+*.Gen.cs
+*.sln
+*.csproj
+*.code-workspace
+.flaxproj.user
+
+# Python (verify.py)
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
